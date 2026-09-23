@@ -81,14 +81,15 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 ## AI / ML Expertise
 
-| Domain | Level | Focus Areas |
+| Domain | Status | Focus Areas |
 |:---|:---:|:---|
-| **Deep Learning** | Intermediate | CNN training & evaluation · TensorFlow / Keras · Model optimization |
-| **Computer Vision** | Intermediate | Image classification · Preprocessing & augmentation · Disease detection |
-| **Video / Satellite Imagery** | Building | Optical-flow frame interpolation · INSAT-3DS · GOES-19 · Himawari-8 |
-| **3D Reconstruction** | Learning | Drone-video-to-3D pipeline · SIH 2026 |
-| **ML Fundamentals** | Comfortable | Supervised learning · Model evaluation · Regularization |
-| **Data Structures & Algorithms** | Comfortable | Competitive programming in C++ · LeetCode |
+| **AI / Machine Learning** | Completed | CNN training & evaluation · TensorFlow / Keras · supervised learning · model evaluation · regularization |
+| **Computer Vision** | Intermediate | Image classification · YOLOv8 · SAM 2 · OpenCV · preprocessing & augmentation · object/semantic segmentation |
+| **Remote Sensing & Geospatial** | Building | Optical-flow frame interpolation · INSAT-3DS · GOES-19 · Himawari-8 · GDAL · PyProj · georeferencing |
+| **IoT & Embedded Systems** | Completed | ESP32 · Smart Irrigation · soil/climate sensing · automation · Blynk · ThingSpeak · Firebase |
+| **Backend & Full Stack** | Advanced | React.js · FastAPI · REST APIs · SQLAlchemy · SQLite · frontend-backend integration |
+| **Blockchain & Distributed Systems** | Completed | Private blockchain concepts · supply-chain ledger · transaction traceability · React + FastAPI architecture |
+| **Data Structures & Algorithms** | Comfortable | C++ · Competitive Programming · LeetCode · problem solving · core data structures & algorithms |
 
 
 
