@@ -16,8 +16,6 @@
 
 Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex problems into simple, working solutions. I'm drawn to the space between machine learning and software engineering: understanding the math and algorithms underneath a model, then building the systems around it so it's actually useful. From satellite imagery to crop disease detection to full-stack apps, I like projects where an idea becomes something real. I care about clean code, clear structure, and learning something new with every build.
 
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
 
 ---
