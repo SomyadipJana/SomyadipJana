@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:soumyadipj812@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=soumyadipj812@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ Reach out if you are working on something interesting in computer vision or mach
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:soumyadipj812@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=soumyadipj812@gmail.com)
 
 <br/>
 
