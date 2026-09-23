@@ -157,33 +157,8 @@ AI/ML-focused developer portfolio showcasing projects, research, and technical w
 
 </div>
 
----
 
-## GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SomyadipJana&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SomyadipJana&show_icons=true&theme=default&hide_border=true&title_color=0f172a&icon_color=475569&text_color=334155&bg_color=f8fafc&ring_color=475569" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomyadipJana&layout=compact&theme=default&hide_border=true&title_color=0f172a&text_color=334155&bg_color=f8fafc" alt="Top Languages" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SomyadipJana&theme=default&hide_border=true&ring=475569&fire=475569&currStreakLabel=475569&sideLabels=334155&dates=64748b&background=f8fafc)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## Contact
 
