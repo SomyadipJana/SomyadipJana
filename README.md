@@ -39,13 +39,13 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 
 
-## Tech Stack
+## Expertise
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,solidity&theme=dark" />
 
 <br/>
 
@@ -57,7 +57,7 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,fastapi,sqlite&theme=dark" />
 
 <br/>
 
@@ -74,7 +74,7 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,linux&theme=dark" />
 
 </div>
 
