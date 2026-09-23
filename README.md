@@ -19,18 +19,7 @@
 
 ## About Me
 
-```yaml
-Name        : Soumyadip Jana
-Location    : West Bengal, India
-Education   : B.Tech CSE  |  Adamas University  |  3rd Year
-Focus       : AI / ML  |  Computer Vision  |  Full-Stack Engineering
-Seeking     : AI / ML Internship (2025 - 2026)
-Email       : soumyadipj812@gmail.com
-```
-
-Third-year Computer Science undergraduate with a focused interest in **deep learning**, **computer vision**, and **satellite imagery analysis**. I build systems that address real-world challenges — from generating temporally consistent satellite video frames using optical flow to reconstructing photorealistic 3D models from drone footage.
-
-> *"I don't just study AI. I build with it."*
+Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex problems into simple, working solutions. I'm drawn to the space between machine learning and software engineering: understanding the math and algorithms underneath a model, then building the systems around it so it's actually useful. From satellite imagery to crop disease detection to full-stack apps, I like projects where an idea becomes something real. I care about clean code, clear structure, and learning something new with every build.
 
 ---
 
