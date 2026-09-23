@@ -71,22 +71,7 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 | **ML Fundamentals** | Comfortable | Supervised learning · Model evaluation · Regularization |
 | **Data Structures & Algorithms** | Comfortable | Competitive programming in C++ · LeetCode |
 
----
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---:|
-| [**seamless-sat-frames**](https://github.com/SomyadipJana/seamless-sat-frames) | Generates intermediate frames between consecutive geostationary satellite images to raise temporal resolution for weather analysis | Python · PyTorch · Optical Flow · TypeScript | Active |
-| [**cnn-mango-disease-detection**](https://github.com/SomyadipJana/cnn-mango-disease-detection) | Automated mango leaf disease classification using CNN — enabling early crop disease detection for farmers | TensorFlow · Keras · OpenCV · Jupyter | Complete |
-| **AeroForge** | Single-pass drone video to photorealistic 3D model generation (SIH 2026 entry) | Python · 3D Vision · Deep Learning | Building |
-| **Book Bank** | Full-stack library management system with admin panel, role-based access, and SRS documentation | TypeScript · React · Node.js · MongoDB | Active |
-
-</div>
-
----
 
 ## Contribution Activity
 
