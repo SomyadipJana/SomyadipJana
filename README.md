@@ -15,6 +15,10 @@
 
 Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex problems into simple, working solutions. I'm drawn to the space between machine learning and software engineering: understanding the math and algorithms underneath a model, then building the systems around it so it's actually useful. From satellite imagery to crop disease detection to full-stack apps, I like projects where an idea becomes something real. I care about clean code, clear structure, and learning something new with every build.
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
+
 ---
 
 ## Contribution Activity
@@ -91,21 +95,6 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 
 
-## Contact
-
 <div align="center">
-
-Actively seeking **AI / ML internships** and open to **research collaborations**.
-Reach out if you are working on something interesting in computer vision or machine learning.
-
-<br/>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
-[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=soumyadipj812@gmail.com)
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
-
 </div>
