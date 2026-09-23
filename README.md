@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soumyadip%20Jana&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=16&fontColor=e2e8f0&descColor=94a3b8" alt="header" width="100%" />
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Somyadip/)
+<a href="https://leetcode.com/u/Somyadip/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40" /></a>
 [![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=soumyadipj812@gmail.com)
 
 </div>
