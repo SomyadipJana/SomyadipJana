@@ -3,15 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soumyadip%20Jana&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=16&fontColor=e2e8f0&descColor=94a3b8" alt="header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64748B&center=true&vCenter=true&random=false&width=720&lines=Building+AI+systems+that+see+the+world;Optical+Flow+%7C+3D+Reconstruction+%7C+Deep+Learning;Open+to+AI+%2F+ML+Internships)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadipjana/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadipj812@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=SomyadipJana&color=475569&style=flat-square&label=Profile+Views" alt="profile views" />
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:soumyadipj812@gmail.com)
 
 </div>
 
@@ -121,9 +115,9 @@ Reach out if you are working on something interesting in computer vision or mach
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadipjana/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadipj812@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumyadipjana/)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.vercel.app)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:soumyadipj812@gmail.com)
 
 <br/>
 
