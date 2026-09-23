@@ -23,44 +23,7 @@ Hello, I'm Soumyadip Jana, a computer science student who enjoys turning complex
 
 ---
 
-## Currently Working On
 
-<table>
-<tr>
-<td width="50%">
-
-**Seamless Sat Frames**
-
-Optical-flow deep learning model to generate intermediate frames between consecutive geostationary satellite images (INSAT-3DS, GOES-19, Himawari-8), improving temporal resolution for weather analysis.
-
-</td>
-<td width="50%">
-
-**AeroForge — SIH 2026**
-
-Single-pass drone video to photorealistic 3D model reconstruction pipeline. Building the model-training and inference backend for Smart India Hackathon 2026.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Book Bank**
-
-Full-stack library management system with admin panel, SRS documentation, and role-based access — built with modern TypeScript and React.
-
-</td>
-<td width="50%">
-
-**Personal Portfolio**
-
-AI/ML-focused developer portfolio showcasing projects, research, and technical writing. Deploying on Vercel.
-
-</td>
-</tr>
-</table>
-
----
 
 ## Tech Stack
 
